@@ -9,46 +9,46 @@
 ## 🚀 About Me
 
 - 🌱 Currently learning **Java, Spring Boot, Microservices, AWS**
-- 💡 Passionate about Backend Development and Distributed Systems
-- 💼 Looking for Software Engineer opportunities
-- 📚 Always learning and building real-world projects
+- 💻 Passionate about Backend Development
+- 🎯 Looking for Software Engineer opportunities
+- 📚 Building real-world backend applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 - Java
 - Python
 - SQL
 - C
 
-### Backend
+### ⚙️ Backend
 - Spring Boot
 - REST APIs
 - JWT Authentication
 - Microservices (Learning)
 
-### Databases
+### 🗄️ Databases
 - MySQL
 - SQLite
 
-### Tools & Technologies
+### ☁️ Cloud
+- AWS (Learning)
+
+### 🔧 Tools
 - Git
 - GitHub
 - VS Code
 - IntelliJ IDEA
 - Postman
 
-### Cloud
-- AWS (Learning)
-
 ---
 
 ## 🚀 Featured Projects
 
 ### 🎬 Distributed Video Streaming Platform
-- Spring Boot Microservices
+- Spring Boot
 - JWT Authentication
 - MySQL
 - Redis
@@ -59,21 +59,21 @@
 - OpenCV
 - Face Recognition
 - SQLite
-- AI-powered missing person matching
 
 ---
 
-## 🎯 Current Focus
+## 📚 Currently Learning
 
-- Advanced Spring Boot
+- Spring Security
+- JWT
 - Microservices
-- AWS Cloud
-- Data Structures & Algorithms
-- Backend System Design
+- Docker
+- AWS
+- DSA
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect with Me
 
 - GitHub: https://github.com/Subramanian-S7
 - LinkedIn: https://linkedin.com/in/subramanian-s7
@@ -81,3 +81,7 @@
 ---
 
 ⭐ Thanks for visiting my profile!
+
+
+
+
