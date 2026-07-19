@@ -1,191 +1,153 @@
-# Hi 👋, I'm Subramanian S
+<h1 align="center">Hi 👋, I'm Subramanian S</h1>
 
-## 💻 Aspiring Software Engineer | Java Backend Development
-
-📍 Bengaluru, India
-
-I'm a Computer Science Engineering student passionate about designing and building scalable software solutions. My primary focus is Backend Development using Java and Spring Boot, while also exploring AI-powered applications, Cloud Technologies, and Microservices.
-
----
-
-# 🚀 About Me
-
-- 💻 Aspiring Software Engineer with a strong interest in Backend Development.
-- ☕ Building scalable backend applications using Java & Spring Boot.
-- 🤖 Developed AI-powered applications using Python, Flask & OpenCV.
-- 🌱 Currently learning Spring Security, Microservices, Redis, Docker & AWS.
-- 📚 Continuously improving Data Structures, Algorithms & System Design.
-- 🎯 Looking for Software Engineer opportunities where I can learn, contribute and grow.
-
----
-
-# 📊 GitHub Statistics
+<h3 align="center">
+Software Engineer | Java | Spring Boot | Backend Development
+</h3>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Subramanian-S7&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subramanian-S7&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Subramanian-S7&theme=github-dark&hide_border=true"/>
-
+Passionate about designing scalable backend applications, building RESTful APIs, and solving real-world problems through software engineering.
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 👨‍💻 About Me
 
-## Languages
-
-<p>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</p>
+- 🎓 Computer Science Engineering Graduate (2026)
+- 💻 Aspiring **Software Engineer** with a strong interest in **Java Backend Development**
+- 🌱 Currently enhancing my expertise in **Spring Security, JWT, Redis, Docker, AWS, and Microservices**
+- 🚀 Passionate about building scalable, secure, and high-performance applications
+- 📚 Always learning modern backend technologies and software engineering best practices
 
 ---
 
-## Backend Development
+# 🛠️ Tech Stack
+
+### Programming Languages
 
 <p>
-
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge"/>
-
+<img src="https://skillicons.dev/icons?i=java,python,c" />
 </p>
 
----
-
-## Database & Cache
+### Backend Development
 
 <p>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-
+<img src="https://skillicons.dev/icons?i=spring,maven" />
 </p>
 
----
+- Spring Boot
+- Spring Security
+- REST APIs
+- JWT Authentication
 
-## Cloud & Tools
+### Databases
 
 <p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
 
-<img src="https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+### Web Technologies
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,flask" />
+</p>
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+### Tools & Technologies
 
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,aws" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🎬 Distributed Video Streaming Platform
+## 📺 Distributed Video Streaming Platform
 
-A scalable backend application built using Java and Spring Boot following Microservices architecture.
+A production-style backend application built using Java and Spring Boot.
 
-### Highlights
+### Features
 
-- 🔐 JWT Authentication
-- ⚡ REST APIs
-- 🗄 MySQL
-- 🚀 Redis Caching
-- ☁ AWS S3 Integration
-- 🧩 Microservices Architecture
+- RESTful APIs
+- Spring Security
+- JWT Authentication
+- MySQL Integration
+- Layered Architecture
+- Scalable Backend Design
 
-[![View Project](https://img.shields.io/badge/View_Project-Video_Streaming_Platform-blue?style=for-the-badge)](https://github.com/Subramanian-S7/video-streaming-platform)
+**Tech Stack**
 
----
+`Java` • `Spring Boot` • `Spring Security` • `JWT` • `MySQL` • `Maven`
 
-## 🤖 AI Missing Person Detection System
+🔗 Repository
 
-An AI-powered web application that identifies missing persons using face recognition and sends automated alerts.
-
-### Highlights
-
-- 🧠 OpenCV Face Recognition
-- 🌐 Flask Web Application
-- 🗄 SQLite Database
-- 📲 WhatsApp Notification Integration
-
-[![View Project](https://img.shields.io/badge/View_Project-Missing_Person_Detection-success?style=for-the-badge)](https://github.com/Subramanian-S7/Missing-person-detection-using-AI)
+**https://github.com/Subramanian-S7/video-streaming-platform**
 
 ---
 
-# 📖 Current Learning
+## 🔍 Missing Person Detection using AI
 
-- ☕ Advanced Java
-- 🌱 Spring Boot
-- 🔐 Spring Security
-- 🧩 Microservices
-- ⚡ Redis
-- 🐳 Docker & Docker Compose
-- ☁ AWS
-- 📐 System Design
-- 📚 Data Structures & Algorithms
+An AI-powered web application that identifies missing individuals using Computer Vision and sends instant WhatsApp notifications.
+
+### Features
+
+- Face Detection using OpenCV
+- LBPH Face Recognition
+- Flask Web Application
+- SQLite Database
+- Twilio WhatsApp Notifications
+- Real-Time Surveillance Module
+
+**Tech Stack**
+
+`Python` • `Flask` • `OpenCV` • `SQLite` • `Twilio`
+
+🔗 Repository
+
+**https://github.com/Subramanian-S7/Missing-person-detection-using-AI**
 
 ---
 
-# 🎯 Career Objective
+# 🌱 Currently Learning
 
-To build reliable, scalable, and impactful software solutions while continuously learning modern technologies and growing as a Software Engineer.
+- Spring Security
+- JWT Authentication
+- Redis
+- Docker
+- AWS S3
+- Microservices
+- System Design
 
 ---
 
-# 📫 Connect With Me
+# 📈 GitHub Stats
 
-<p>
+<p align="center">
 
-<a href="https://github.com/Subramanian-S7">
+<img src="https://github-readme-stats.vercel.app/api?username=Subramanian-S7&show_icons=true&theme=tokyonight" height="170"/>
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-<a href="https://linkedin.com/in/subramanian-s7">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subramanian-S7&layout=compact&theme=tokyonight" height="170"/>
 
 </p>
 
 ---
 
+# 📫 Connect With Me
+
+- 💼 LinkedIn: **https://linkedin.com/in/subramanian-s7**
+- 📧 Email: **subramanianssubbu7@gmail.com**
+- 💻 GitHub: **https://github.com/Subramanian-S7**
+
+---
+
+# 💡 Quote
+
+> *"Code with purpose. Build with quality. Learn continuously."*
+
+---
+
 <p align="center">
 
-### ⭐ Thanks for visiting my profile! ⭐
-
-*"Code. Learn. Build. Improve. Repeat."*
+⭐ **Thank you for visiting my GitHub profile!**
 
 </p>
 
