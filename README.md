@@ -22,10 +22,9 @@ Passionate about building scalable backend applications, designing RESTful APIs,
 
 - 🎓 Computer Science Engineering Graduate (2026)
 - 💻 Aspiring Software Engineer with a strong interest in Java Backend Development
-- 🚀 Building production-ready backend applications using Java and Spring Boot
-- 🌱 Currently enhancing my expertise in Spring Security, JWT, Redis, Docker, AWS, and Microservices
-- 💡 Passionate about building scalable, secure, and high-performance backend applications
-- 📚 Always learning modern software engineering principles and backend technologies
+- 🚀 Building secure and scalable backend applications using Java and Spring Boot
+- 🌱 Currently learning Redis, Docker, AWS, Microservices, and System Design
+- 💡 Passionate about designing RESTful APIs and solving real-world problems
 - ⚡ Open to Software Engineer and Java Backend Developer opportunities
 
 ---
@@ -50,7 +49,7 @@ Passionate about building scalable backend applications, designing RESTful APIs,
 
 - Spring Boot
 - Spring Security
-- RESTful APIs
+- REST APIs
 - JWT Authentication
 - Maven
 - Postman
@@ -94,8 +93,8 @@ Passionate about building scalable backend applications, designing RESTful APIs,
 <img src="https://skillicons.dev/icons?i=docker,aws" />
 </p>
 
-- Docker *(Learning)*
-- AWS *(Learning)*
+- Docker
+- AWS
 
 ---
 
@@ -115,25 +114,24 @@ Passionate about building scalable backend applications, designing RESTful APIs,
 
 # 🚀 Featured Projects
 
-## 📺 Distributed Video Streaming Platform
+## 🎬 Distributed Video Streaming Platform
 
-A scalable backend application developed using **Java** and **Spring Boot** following modern software engineering practices.
+A secure backend video streaming platform built using **Java**, **Spring Boot**, and **Spring Security**. The application supports user authentication, secure video uploads, and video streaming through RESTful APIs.
 
 ### Key Features
 
-- Secure User Authentication
+- JWT Authentication & Authorization
 - Spring Security
-- JWT Authentication
-- RESTful APIs
+- User Registration & Login
+- Secure Video Upload
+- Video Streaming API
+- RESTful API Development
 - MySQL Integration
 - Layered Architecture
-- Production-ready Backend Design
-- Redis Integration *(In Progress)*
-- AWS S3 Integration *(In Progress)*
 
 ### Technologies
 
-`Java` • `Spring Boot` • `Spring Security` • `JWT` • `MySQL` • `Redis` • `AWS S3` • `Maven`
+`Java` • `Spring Boot` • `Spring Security` • `JWT` • `MySQL` • `Maven`
 
 🔗 **Repository**
 
@@ -152,7 +150,6 @@ An AI-powered web application that detects missing persons using Computer Vision
 - Flask Web Application
 - SQLite Database
 - WhatsApp Notifications using Twilio
-- Real-Time Surveillance Module
 - Case Management Dashboard
 
 ### Technologies
@@ -168,44 +165,18 @@ An AI-powered web application that detects missing persons using Computer Vision
 # 🌱 Currently Learning
 
 - Spring Security
-- JWT Authentication
 - Redis
 - Docker
-- AWS S3
+- AWS
 - Microservices
 - System Design
 - Scalable Backend Architecture
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Subramanian-S7&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subramanian-S7&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Subramanian-S7&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 GitHub Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subramanian-S7&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 # 🎯 Career Objective
 
-I aspire to become a Software Engineer specializing in Java Backend Development by designing scalable, secure, and high-performance applications that solve real-world problems while continuously learning modern technologies and software engineering best practices.
+To build a successful career as a Software Engineer specializing in Java Backend Development by designing secure, scalable, and high-performance applications while continuously learning modern technologies and software engineering best practices.
 
 ---
 
@@ -223,12 +194,8 @@ I aspire to become a Software Engineer specializing in Java Backend Development 
 
 </p>
 
-<p>
-📧 <strong>Email:</strong>
-<a href="mailto:subramanianssubbu7@gmail.com">
+📧 **Email:**  
 subramanianssubbu7@gmail.com
-</a>
-</p>
 
 ---
 
@@ -238,13 +205,10 @@ subramanianssubbu7@gmail.com
 
 ---
 
----
-
 <p align="center">
 
 ⭐ **Thank you for visiting my GitHub profile!**
 
-If you found my projects interesting, feel free to explore my repositories and connect with me.
+Feel free to explore my repositories and connect with me.
 
 </p>
-
